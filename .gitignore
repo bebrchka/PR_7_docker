@@ -1,0 +1,6 @@
+app/api/node_modules/
+app/frontend/node_modules/
+.env
+prometheus/data/
+grafana/data/
+_report-captures/
